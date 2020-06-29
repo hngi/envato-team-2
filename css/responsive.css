@@ -139,10 +139,6 @@
         padding: 0 30px;
     }
 
-    #about-section .about-video {
-        /* text-align: right; */
-    }
-
     #about-section .about-video img {
         width: 80%;
         height: 150px;
@@ -222,6 +218,62 @@
 
     footer .social-links i {
         font-size: 14px;
+    }
+
+
+
+    #hotel-hero img {
+        height: 500px !important;
+    }
+
+    #hotel-hero h1 {
+        font-size: 48px;
+    }
+
+    #filter-search {
+        padding: 0 10px;
+    }
+
+    #hotels-booking-cards {
+        padding: 20px 10px 0;
+    }
+
+    .hotel-card .card-img {
+        height: 179px;
+    }
+
+    .hotel-card {
+        height: 184px;
+    }
+
+    .hotel-card .custom-btn {
+        font-size: 14px;
+        padding: 5px 12px;
+        margin-top: 15px;
+    }
+
+    #hotels-list-pagination a {
+        background-color: #464646;
+        font-size: 14px;
+    }
+
+    #service-features {
+        padding: 82px 10px 0;
+    }
+
+    #service-features .card-img-top {
+        height: 48px;
+    }
+
+    .hotels-footer {
+        margin-top: 41px;
+    }
+
+
+
+
+    #faq-hero {
+        height: 500px;
     }
 
 }
