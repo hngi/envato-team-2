@@ -1,0 +1,246 @@
+#hero-img {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+}
+
+#discover {
+    position: absolute;
+    width: 385px;
+    height: 88px;
+    left: 528px;
+    top: 386px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 88px;
+    color: #ffffff;
+}
+
+#africa {
+    position: absolute;
+    width: 570px;
+    height: 176px;
+    left: 435px;
+    top: 462px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 144px;
+    line-height: 176px;
+    color: #ffffff;
+}
+
+#top-cities {
+    position: absolute;
+    width: 246px;
+    height: 59px;
+    left: 121px;
+    top: 1160px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    color: #000000;
+}
+
+#bali {
+    position: absolute;
+    width: 267px;
+    height: 301px;
+    left: 123px;
+    top: 1252px;
+}
+
+#lagos {
+    position: absolute;
+    width: 266px;
+    height: 301px;
+    left: 409px;
+    top: 1252px;
+}
+
+#fez {
+    position: absolute;
+    width: 267px;
+    height: 301px;
+    left: 694px;
+    top: 1252px;
+}
+
+#top-cities-text {
+    position: absolute;
+    width: 289px;
+    height: 200px;
+    left: 1020px;
+    top: 1230px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 50px;
+}
+
+#hotel {
+    position: absolute;
+    width: 161px;
+    height: 59px;
+    left: 640px;
+    top: 1687px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+}
+
+#hotel-text {
+    position: absolute;
+    width: 708px;
+    height: 40px;
+    left: 320px;
+    top: 1796px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+}
+
+#christabel {
+    position: absolute;
+    width: 290px;
+    height: 368px;
+    left: 260px;
+    top: 1882px;
+}
+
+#primrose {
+    position: absolute;
+    width: 291px;
+    height: 368px;
+    left: 574px;
+    top: 1882px;
+}
+
+#geneva {
+    position: absolute;
+    width: 290px;
+    height: 368px;
+    left: 889px;
+    top: 1882px;
+}
+
+#about {
+    position: absolute;
+    width: 233px;
+    height: 59px;
+    left: 236px;
+    top: 2432px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+}
+
+#vid {
+    position: absolute;
+    width: 582px;
+    height: 321px;
+    left: 227px;
+    top: 2555px;
+}
+
+#about-text {
+    position: absolute;
+    width: 383px;
+    height: 150px;
+    left: 835px;
+    top: 2553px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 50px;
+}
+
+#comments {
+    position: absolute;
+    width: 612px;
+    height: 59px;
+    left: 414px;
+    top: 2992px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    /* identical to box height */
+    text-align: center;
+}
+
+#quote {
+    position: absolute;
+    width: 800px;
+    height: 29px;
+    left: 320px;
+    top: 3098px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+}
+
+#taribo {
+    position: absolute;
+    width: 459px;
+    height: 100px;
+    left: 118px;
+    top: 3174px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+}
+
+#okocha {
+    position: absolute;
+    width: 459px;
+    height: 100px;
+    left: 491px;
+    top: 3313px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+}
+
+#joy {
+    position: absolute;
+    width: 459px;
+    height: 100px;
+    left: 864px;
+    top: 3174px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.checked {
+    color: orange;
+}
