@@ -1,5 +1,116 @@
 /** GENERAL STYLING **/
 
+/*################  Login Page ##############################*/
+/* .left-side-bg {
+    background: linear-gradient(135deg,
+            rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./images/login/login-bg.png');
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-logo {
+    height: 88px;
+    position: absolute;
+    left: 28.83%;
+    top: 54.11%;
+}
+
+.text-dark {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #464646;
+}
+
+.text-orange {
+    color: #EBC154;
+}
+
+a.text-orange:hover {
+    color: black;
+}
+
+a.text-orange:active {
+    color: #EBC154
+}
+
+.fancy {
+    line-height: 0.5;
+    text-align: center;
+    color: #EBC154
+}
+
+.fancy span {
+    display: inline-block;
+    position: relative;
+}
+
+.fancy span:before,
+.fancy span:after {
+    content: "";
+    position: absolute;
+    height: 6px;
+    border-bottom: 1px solid #EBC154;
+    top: 0;
+    width: 150px;
+}
+
+.fancy span:before {
+    right: 100%;
+    margin-right: 15px;
+}
+
+.fancy span:after {
+    left: 100%;
+    margin-left: 15px;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.form-heading {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.btn {
+    border-radius: 10px
+}
+
+.btn-orange {
+    color: white;
+    background-color: #EBC154;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn-orange:hover {
+    color: #464646;
+    background: none;
+    border: 1px solid #E5E5E5;
+}
+
+.btn-transparent {
+    background: none;
+    color: #464646;
+    font-size: 15px;
+    outline: none;
+    font-weight: bold;
+    border: 1px solid #E5E5E5;
+}
+
+.btn-transparent:hover {
+    background-color: #EBC154;
+    color: white;
+    border: none;
+} */
+
+/* ########### End  Login Page Styles #################### */
+
 body {
     margin: 0;
     padding: 0;
