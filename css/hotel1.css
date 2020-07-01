@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form-input {
+    border-radius: 15px;
+    width: 200px;
+    padding: 5px;
+}
+.cardholder .card-img-top {
+    height: 5rem;
+}
+.cardholder .room-card {
+    width: 350px;
+}
+.cardholder .room-card:hover {
+    transform: scale(1.001);
+  -webkit-transform: scale(1.1);
+  background: yellow;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.pagination{
+    margin: auto;
+    align-content: center;
+}
+@media only screen and (max-width: 990px) {
+    .cardholder .room-card {
+        width: 100%;
+        
+    }
+    .form-input {
+        border-radius: 15px;
+        width: 100%;
+        padding: 5px;
+    }
+}
+@media only screen and (max-width: 750px) {
+    .cardholder .room-card {
+        width: 100%;
+    }
+    .form-input {
+        border-radius: 15px;
+        width: 100%;
+        padding: 5px;
+    }
+}
+
+
