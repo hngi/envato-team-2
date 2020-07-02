@@ -20,8 +20,33 @@ a {
   font-size: 16px;
   color: #EBC154;
 }
+a:hover {
+  font-size: 16px;
+  color: #EBC154;
+}
 a .link{
   font-size: 6px;
+}
+#tours-section {
+  position: relative;
+}
+
+#tours-section .tour-overlay {
+  background-image: url(./img/matthias-mullie-u2-97eBhFEc-unsplash1\ 1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+
+  #tours-section .tour-caption {
+    padding: 90px 50px 50px 90px ;
+    color:#fff;
+    text-align:center;
+    margin: auto;
+    }
+#tours-section h1 .bold-heading {
+  font-size: 100px;
 }
 
 .bg-dark {
