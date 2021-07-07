@@ -1,0 +1,10 @@
+.line{
+   width: 170px;
+   height: 5px;
+   background-color: #EBC154;
+   margin: 0 auto;
+}
+.tour img{
+   width: 150px;
+   height: 150px;
+}
